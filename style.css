@@ -1,0 +1,46 @@
+.mainhead {
+    background-color: rgb(123, 215, 123);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    width: 40%;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.table {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+
+}
+
+.th {
+    color: green;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    font-weight: lighter;
+}
+
+.gmail {
+    color: green;
+}
+
+.button {
+    background-color: rgb(123, 215, 123);
+    color: green;
+    padding: 7px;
+}
+
+.row {
+    background-color: rgb(151, 239, 167);
+    border: 0px;
+}
+
+.img {
+    padding: 5px;
+}
